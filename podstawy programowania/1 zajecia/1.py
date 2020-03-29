@@ -71,7 +71,7 @@ komentarz
 
 
 #--------
-tutaj nie przelacza na nastepna linie
+#tutaj nie przelacza na nastepna linie
 
 print("\nPodaj swoj wiek: ", end="")
 wiek = input()
