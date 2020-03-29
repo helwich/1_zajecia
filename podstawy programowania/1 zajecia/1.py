@@ -38,7 +38,7 @@ print(type(lenght))
 
 
 #--------------
-zadanko do zrobienia:
+#zadanko do zrobienia:
 #--------------
 
 print("Podaj imie: ")
@@ -80,7 +80,7 @@ print(wiek)
 
 
 #----------------
-ostatni znak
+#ostatni znak
 
 surname = "Kowalski"
 firstLetter = surname[0]
